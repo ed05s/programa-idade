@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -26,7 +26,7 @@ public class ProgramaIdade {
             System.out.println("maior de idade");       
             
         }else{
-            System.out.println("menor deidade");
+            System.out.println("menor de idade");
         }
         
         
